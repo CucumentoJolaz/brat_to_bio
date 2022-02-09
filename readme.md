@@ -1,4 +1,4 @@
-# NEW BRAT notation to BIO/IOB notation.
+# NER BRAT to BIO/IOB notation.
 
 Программа, написанная в рамках данного проекта, предназначена для работы с NER разметкой.
 Представляет собой транслятор NER разметки текста 
